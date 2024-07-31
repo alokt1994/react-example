@@ -1,6 +1,6 @@
 # Coding Practice Screenshots
 
-# Counter App
+# Counter App state hook example
 
 <details>
   <summary>Counter App Screenhshot</summary>
@@ -11,7 +11,7 @@
   
 </details>
 
-#useRef value mutation
+# useRef value mutation example
 
 <details>
   <summary>useRef Screenshot</summary>
