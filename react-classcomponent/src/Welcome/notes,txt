@@ -1,0 +1,34 @@
+Optimize React Application
+
+1. Component Level Optimization
+
+- Use keys for list
+- React.memo
+- useMemo
+- useCallback
+
+2. App Level
+
+- Lazy Loading
+- Treeshaking - Remove unused code
+- Minification - Remove whitespaces, rename variable
+- Compression -
+
+---
+
+Optimize React Application
+
+1. Component Level Optimization
+
+- Use keys for list
+- React.memo - HOC - To memorize component- If props change then only render the component
+- useMemo - Hooks - Memorize heavy calculation - Calculate only when specified prop is changed.
+- useCallback - Hooks - Memorize the callback function
+
+2. App Level
+
+- Lazy Loading
+- Treeshaking - Remove unused code
+- Minification - Remove whitespaces, rename variable
+- Compression -
+  https://medium.com/@shivalkondwar1/boost-your-react-components-a-beginners-guide-to-react-memo-usememo-and-usecallback-13de63d936f5
