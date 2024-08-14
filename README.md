@@ -9,7 +9,7 @@
 | 3      | [routing](#routing)                             |
 | 4      | [conditional-rendering](#conditional-rendering) |
 | 5      | [context-api](#context-api)                     |
-| 6      | [Lifting State Up](#Lifting-State-Up)           |
+| 6      | [Lifting State Up](#lifting-state-up-example)   |
 
 ### Counter App state hook example
 
