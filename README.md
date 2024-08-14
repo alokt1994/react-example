@@ -62,3 +62,14 @@
 **Description**: An example showcasing the use of context-api.
 
 </details>
+
+### Lifting State Up example
+
+<details>
+  <summary>Lifting State Up</summary>
+
+![context-api](Screenshots/lifting-state-up.gif)
+
+**Description**: An example showcasing the use of Lifting State Up.
+
+</details>
