@@ -1,14 +1,15 @@
 # Coding Practice Screenshots
 
-## Table of Contents
+### Table of Contents
 
-| 1 | [Counter App](#counter-app) |
-
-| 2 | [useRef Value Mutation](#useref-value-mutation) |
-| 3 | [routing](#routing) |
-| 4 | [conditional-rendering](#conditional-rendering) |
-| 5 | [context-api](#context-api) |
-| 6 | [Lifting-State-Up](#Lifting-State-Up) |
+| Number | Topic                                           |
+| ------ | ----------------------------------------------- |
+| 1      | [Counter App](#counter-app)                     |
+| 2      | [useRef Value Mutation](#useref-value-mutation) |
+| 3      | [routing](#routing)                             |
+| 4      | [conditional-rendering](#conditional-rendering) |
+| 5      | [context-api](#context-api)                     |
+| 6      | [Lifting-State-Up](#Lifting-State-Up)           |
 
 ### Counter App state hook example
 
