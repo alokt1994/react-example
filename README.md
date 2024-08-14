@@ -2,14 +2,14 @@
 
 ### Table of Contents
 
-| Number | Topic                                           |
-| ------ | ----------------------------------------------- |
-| 1      | [Counter App](#counter-app)                     |
-| 2      | [useRef Value Mutation](#useref-value-mutation) |
-| 3      | [routing](#routing)                             |
-| 4      | [conditional-rendering](#conditional-rendering) |
-| 5      | [context-api](#context-api)                     |
-| 6      | [Lifting State Up](#lifting-state-up-example)   |
+| Number | Topic                                                   |
+| ------ | ------------------------------------------------------- |
+|  1 | [Counter App](#counter-app-state-hook-example)          |
+|  2 | [useRef Value Mutation](#useref-value-mutation-example) |
+|  3 | [Routing](#routing-example)                             |
+|  4 | [Conditional Rendering](#conditional-rendering-example) |
+|  5 | [Context API](#context-api-example)                     |
+|  6 | [Lifting State Up](#lifting-state-up-example)           |
 
 ### Counter App state hook example
 
