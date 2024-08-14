@@ -5,7 +5,13 @@ import React from "react";
 
 function CounterDisplay({ count }) {
   // We pass the mutable state to the counter display function
-  return <h2>Counter Display function {count}</h2>;
+  return (
+    <h2>
+      Lifting State Example <br />
+      <br />
+      Counter Display function {count}
+    </h2>
+  );
 }
 
 function CounterButton({ count, incrementOnClick }) {
