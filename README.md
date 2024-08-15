@@ -15,6 +15,7 @@
 | 9      | [Props in React.js](#props-example)                     |
 | 10     | [Class Component](#Class-component)                     |
 | 11     | [Redux Example](#Redux-Example)                         |
+| 12     | [Todo Example](#Todo-Example)                           |
 
 ### [Functional Component Example](https://github.com/alokt1994/react-example/blob/main/Create-functional-component/src/Profiler.js)
 
@@ -134,5 +135,16 @@
 ![Redux Example](Screenshots/redux.gif)
 
 **Description**: An example showcasing the use of Redux counterapp.
+
+</details>
+
+### [Todo Example](https://github.com/alokt1994/react-example/blob/main/react-todo/src/Todo/Todo.js)
+
+<details>
+  <summary>Todo Example</summary>
+
+![Todo Example](Screenshots/todo.gif)
+
+**Description**: An example showcasing the use of Todo Example.
 
 </details>
