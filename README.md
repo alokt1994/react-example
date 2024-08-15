@@ -49,12 +49,12 @@
 
 </details>
 
-### [Routing Example]()
+### [Routing Example](https://github.com/alokt1994/react-example/blob/main/react-routing/src/App.js)
 
 <details>
   <summary>Routing</summary>
 
-![Routing](Screenshots/Routing.gif)
+![Routing](Screenshots/routing.gif)
 
 **Description**: An example showcasing the use of routing.
 
