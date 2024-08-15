@@ -16,7 +16,7 @@
 | 10     | [Class Component](#Class-component)                     |
 | 11     | [Redux Example](#Redux-Example)                         |
 
-### Functional Component Example
+### [Functional Component Example](https://github.com/alokt1994/react-example/blob/main/Create-functional-component/src/Profiler.js)
 
 <details>
   <summary>Functional Component</summary>
@@ -27,7 +27,7 @@
   
 </details>
 
-### Counter App State Hook Example
+### [Counter App State Hook Example](https://github.com/alokt1994/react-example/blob/main/counter-app/src/Counter/Counter.js)
 
 <details>
   <summary>Counter App Screenhshot</summary>
@@ -93,12 +93,12 @@
 
 </details>
 
-### Custom Hooks Example
+### [Custom Hooks Example](https://github.com/alokt1994/react-example/tree/main/custom-hooks/src/Counter)
 
 <details>
   <summary>Custom Hooks</summary>
 
-![context-api](Screenshots/custom-hook.gif)
+![custom-hooks](Screenshots/custom-hook.gif)
 
 **Description**: An example showcasing the use of Custom Hooks.
 
@@ -115,7 +115,7 @@
 
 </details>
 
-### Class Component Example
+### [Class Component Example](https://github.com/alokt1994/react-example/blob/main/react-classcomponent/src/Welcome/Car.js)
 
 <details>
   <summary>Class Component</summary>
