@@ -11,6 +11,7 @@
 | 5      | [Context API](#context-api-example)                     |
 | 6      | [Lifting State Up](#lifting-state-up-example)           |
 | 7      | [Custom Hooks](#custom-hooks)                           |
+| 8      | [Props in React.js](#props-example)                     |
 
 ### Counter App state hook example
 
@@ -86,5 +87,16 @@
 ![context-api](Screenshots/custom-hook.gif)
 
 **Description**: An example showcasing the use of Custom Hooks.
+
+</details>
+
+### Props Example
+
+<details>
+  <summary>Props Example</summary>
+
+![context-api](Screenshots/props.jpg)
+
+**Description**: An example showcasing the use of Props in react.js.
 
 </details>
