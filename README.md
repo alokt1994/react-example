@@ -10,6 +10,7 @@
 | 4      | [Conditional Rendering](#conditional-rendering-example) |
 | 5      | [Context API](#context-api-example)                     |
 | 6      | [Lifting State Up](#lifting-state-up-example)           |
+| 7      | [Custom Hooks](#custom-hooks)                           |
 
 ### Counter App state hook example
 
@@ -74,5 +75,16 @@
 ![context-api](Screenshots/lifting-state-up.gif)
 
 **Description**: An example showcasing the use of Lifting State Up.
+
+</details>
+
+### Custom Hooks
+
+<details>
+  <summary>Custom Hooks</summary>
+
+![context-api](Screenshots/custom-hook.gif)
+
+**Description**: An example showcasing the use of Custom Hooks.
 
 </details>
