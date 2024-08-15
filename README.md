@@ -16,6 +16,7 @@
 | 10     | [Class Component](#Class-component)                     |
 | 11     | [Redux Example](#Redux-Example)                         |
 | 12     | [Todo Example](#Todo-Example)                           |
+| 13     | [Curd Example](#Curd-Example)                           |
 
 ### [Functional Component Example](https://github.com/alokt1994/react-example/blob/main/Create-functional-component/src/Profiler.js)
 
@@ -146,5 +147,16 @@
 ![Todo Example](Screenshots/todo.gif)
 
 **Description**: An example showcasing the use of Todo Example.
+
+</details>
+
+### [Curd Example](https://github.com/alokt1994/react-example/tree/main/react-formik/src/UserCrud)
+
+<details>
+  <summary>Curd Example</summary>
+
+![Curd Example](Screenshots/curd.gif)
+
+**Description**: An example showcasing the use of Curd Example.
 
 </details>
