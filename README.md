@@ -60,7 +60,7 @@
 
 </details>
 
-### Conditional Rendering Example
+### [Conditional Rendering Example](https://github.com/alokt1994/react-example/tree/main/conditional-rendering/src)
 
 <details>
   <summary>Conditional Rendering</summary>
@@ -71,7 +71,7 @@
 
 </details>
 
-### Context API Example
+### [Context API Example](https://github.com/alokt1994/react-example/tree/main/react-context/src)
 
 <details>
   <summary>Context API</summary>
@@ -82,12 +82,12 @@
 
 </details>
 
-### Lifting State Up Example
+### [Lifting State Up Example](https://github.com/alokt1994/react-example/blob/main/react-lifting/src/lifting-state/ParentComponent.js)
 
 <details>
   <summary>Lifting State Up</summary>
 
-![context-api](Screenshots/lifting-state-up.gif)
+![lifting-state](Screenshots/lifting-state-up.gif)
 
 **Description**: An example showcasing the use of Lifting State Up.
 
@@ -126,12 +126,12 @@
 
 </details>
 
-### Redux Example
+### [Redux Example](https://github.com/alokt1994/react-example/tree/main/redux-counterapp/src)
 
 <details>
   <summary>Redux Example</summary>
 
-![Class Component](Screenshots/redux.gif)
+![Redux Example](Screenshots/redux.gif)
 
 **Description**: An example showcasing the use of Redux counterapp.
 
