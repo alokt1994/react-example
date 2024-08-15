@@ -26,6 +26,8 @@
   
 </details>
 
+### Counter App State Hook Example
+
 <details>
   <summary>Counter App Screenhshot</summary>
   
@@ -35,7 +37,7 @@
   
 </details>
 
-### useRef value mutation example
+### useRef value mutation Example
 
 <details>
   <summary>useRef Screenshot</summary>
@@ -46,7 +48,7 @@
 
 </details>
 
-### Routing example
+### Routing Example
 
 <details>
   <summary>Routing</summary>
@@ -57,7 +59,7 @@
 
 </details>
 
-### Conditional Rendering example
+### Conditional Rendering Example
 
 <details>
   <summary>Conditional Rendering</summary>
@@ -68,7 +70,7 @@
 
 </details>
 
-### Context API example
+### Context API Example
 
 <details>
   <summary>Context API</summary>
@@ -79,7 +81,7 @@
 
 </details>
 
-### Lifting State Up example
+### Lifting State Up Example
 
 <details>
   <summary>Lifting State Up</summary>
@@ -90,7 +92,7 @@
 
 </details>
 
-### Custom Hooks
+### Custom Hooks Example
 
 <details>
   <summary>Custom Hooks</summary>
@@ -112,7 +114,7 @@
 
 </details>
 
-### Class Component
+### Class Component Example
 
 <details>
   <summary>Class Component</summary>
