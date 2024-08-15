@@ -1,19 +1,30 @@
-# Coding Practice Screenshots
+# Coding Practice Screenshots 👩‍💻
 
 ### Table of Contents
 
 | Number | Topic                                                   |
 | ------ | ------------------------------------------------------- |
-| 1      | [Counter App](#counter-app-state-hook-example)          |
-| 2      | [useRef Value Mutation](#useref-value-mutation-example) |
-| 3      | [Routing](#routing-example)                             |
-| 4      | [Conditional Rendering](#conditional-rendering-example) |
-| 5      | [Context API](#context-api-example)                     |
-| 6      | [Lifting State Up](#lifting-state-up-example)           |
-| 7      | [Custom Hooks](#custom-hooks)                           |
-| 8      | [Props in React.js](#props-example)                     |
+| 1      | [Functional Component](#Functional-Component-example)   |
+| 2      | [Counter App](#counter-app-state-hook-example)          |
+| 3      | [useRef Value Mutation](#useref-value-mutation-example) |
+| 4      | [Routing](#routing-example)                             |
+| 5      | [Conditional Rendering](#conditional-rendering-example) |
+| 6      | [Context API](#context-api-example)                     |
+| 7      | [Lifting State Up](#lifting-state-up-example)           |
+| 8      | [Custom Hooks](#custom-hooks)                           |
+| 9      | [Props in React.js](#props-example)                     |
+| 10     | [Class Component](#Class-component)                     |
 
-### Counter App state hook example
+### Functional Component Example
+
+<details>
+  <summary>Functional Component</summary>
+  
+  ![Functional Component](Screenshots/functional.jpg)
+  
+  **Description**: An example showcasing the use of functional component.
+  
+</details>
 
 <details>
   <summary>Counter App Screenhshot</summary>
@@ -98,5 +109,16 @@
 ![context-api](Screenshots/props.jpg)
 
 **Description**: An example showcasing the use of Props in react.js.
+
+</details>
+
+### Class Component
+
+<details>
+  <summary>Class Component</summary>
+
+![Class Component](Screenshots/class.gif)
+
+**Description**: An example showcasing the use of class component.
 
 </details>
