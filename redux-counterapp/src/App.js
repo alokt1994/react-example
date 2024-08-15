@@ -6,9 +6,12 @@ import Counter from "./Counter";
 
 const App = () => {
   return (
-    <Provider store={store}>
-      <Counter />
-    </Provider>
+    <div>
+      <h1>Redux Counter App Example</h1>
+      <Provider store={store}>
+        <Counter />
+      </Provider>
+    </div>
   );
 };
 

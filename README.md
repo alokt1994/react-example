@@ -14,6 +14,7 @@
 | 8      | [Custom Hooks](#custom-hooks)                           |
 | 9      | [Props in React.js](#props-example)                     |
 | 10     | [Class Component](#Class-component)                     |
+| 11     | [Redux Example](#Redux-Example)                         |
 
 ### Functional Component Example
 
@@ -103,7 +104,7 @@
 
 </details>
 
-### Props Example
+### [Props Example](https://github.com/alokt1994/react-example/blob/main/propsExample/src/Profiler.js)
 
 <details>
   <summary>Props Example</summary>
@@ -122,5 +123,16 @@
 ![Class Component](Screenshots/class.gif)
 
 **Description**: An example showcasing the use of class component.
+
+</details>
+
+### Redux Example
+
+<details>
+  <summary>Redux Example</summary>
+
+![Class Component](Screenshots/redux.gif)
+
+**Description**: An example showcasing the use of Redux counterapp.
 
 </details>
