@@ -167,7 +167,7 @@
 <details>
   <summary>Array Rendering Example</summary>
 
-![Curd Example](Screenshots/)
+![Array Rendering Example](Screenshots/)
 
 **Description**: An example showcasing the use of Array Rendering Example.
 
